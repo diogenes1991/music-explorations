@@ -1,0 +1,26 @@
+# Raw audio and large data are never committed.
+# Per-dataset READMEs and .gitkeep files in data/raw/ ARE tracked.
+*.wav
+*.flac
+*.mp3
+*.ogg
+*.aif
+*.aiff
+data/raw/*/*
+!data/raw/*/*.md
+!data/raw/*/.gitkeep
+data/interim/*
+!data/interim/*.md
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/*.md
+!data/processed/.gitkeep
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+*.pt
+*.pth
+*.ckpt
+*.safetensors

@@ -1,0 +1,127 @@
+{
+  "title": "piece_10s",
+  "tempo_bpm": 120.0,
+  "framerate": 44100,
+  "events": [
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    },
+    {
+      "type": "note",
+      "frequency": 440.0,
+      "duration": "1",
+      "style": "guitar-pluck"
+    }
+  ]
+}

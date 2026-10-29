@@ -1,0 +1,75 @@
+{
+  "title": "chords_guitar",
+  "tempo_bpm": 120.0,
+  "framerate": 44100,
+  "events": [
+    {
+      "type": "chord",
+      "notes": [
+        {
+          "type": "note",
+          "frequency": 440.0,
+          "duration": "2",
+          "style": "guitar-pluck"
+        },
+        {
+          "type": "note",
+          "frequency": 554.37,
+          "duration": "2",
+          "style": "guitar-pluck"
+        }
+      ]
+    },
+    {
+      "type": "chord",
+      "notes": [
+        {
+          "type": "note",
+          "frequency": 392.0,
+          "duration": "2",
+          "style": "guitar-pluck"
+        },
+        {
+          "type": "note",
+          "frequency": 523.25,
+          "duration": "2",
+          "style": "guitar-pluck"
+        }
+      ]
+    },
+    {
+      "type": "chord",
+      "notes": [
+        {
+          "type": "note",
+          "frequency": 329.63,
+          "duration": "2",
+          "style": "guitar-pluck"
+        },
+        {
+          "type": "note",
+          "frequency": 440.0,
+          "duration": "2",
+          "style": "guitar-pluck"
+        }
+      ]
+    },
+    {
+      "type": "chord",
+      "notes": [
+        {
+          "type": "note",
+          "frequency": 440.0,
+          "duration": "2",
+          "style": "guitar-pluck"
+        },
+        {
+          "type": "note",
+          "frequency": 659.25,
+          "duration": "2",
+          "style": "guitar-pluck"
+        }
+      ]
+    }
+  ]
+}
